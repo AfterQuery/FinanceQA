@@ -1,11 +1,13 @@
-# FinanceQA
+# FinanceQA: A Benchmark for Evaluating Financial Analysis Capabilities of Large Language Models
 
 #### 📄 Read the paper here: [FinanceQA](https://github.com/mateega/FinanceQA/blob/main/FinanceQA.pdf)
 
 [FinanceQA](https://github.com/AfterQuery/FinanceQA/blob/main/Finance%20QA.pdf) is a comprehensive testing suite designed to evaluate LLMs' performance on complex financial analysis tasks that mirror real-world investment work. The dataset aims to be substantially more challenging and practical than existing financial benchmarks, focusing on tasks that require precise calculations and professional judgment.
 
-
 ![Results](https://github.com/AfterQuery/FinanceQA/blob/main/FinanceQA/results_img.png)
+
+**Abstract:** FinanceQA is a testing suite that evaluates LLMs’ performance on complex numerical financial analysis tasks that mirror real-world investment work. Despite recent advances, current LLMs fail to meet the strict accuracy requirements of financial institutions, with models failing approximately 60% of realistic tasks that mimic on-the-job analyses at hedge funds, private equity firms, investment banks, and other financial institutions. The primary challenges include hand-spreading metrics, adhering to standard accounting and corporate valuation conventions, and performing analysis under incomplete information - particularly in multi-step tasks requiring assumption generation. This performance gap highlights the disconnect between existing LLM capabilities and the demands of professional financial analysis that are inadequately tested by current testing architectures. Results show that higher-quality training data is needed to support such tasks, which we experiment with using OpenAI’s fine-tuning API. FinanceQA is publicly released at https://huggingface.co/datasets/AfterQuery/ FinanceQA.
+
 
 ### Description
 
