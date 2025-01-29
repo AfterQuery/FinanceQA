@@ -1,6 +1,7 @@
 # FinanceQA: A Benchmark for Evaluating Financial Analysis Capabilities of Large Language Models
 
-#### 📄 Read the paper here: [FinanceQA](https://github.com/mateega/FinanceQA/blob/main/FinanceQA.pdf)
+#### 📄 Read the paper [here](https://github.com/mateega/FinanceQA/blob/main/FinanceQA.pdf)
+#### 🤗 Check out our data [here](https://huggingface.co/datasets/AfterQuery/FinanceQA)
 
 [FinanceQA](https://github.com/AfterQuery/FinanceQA/blob/main/Finance%20QA.pdf) is a comprehensive testing suite designed to evaluate LLMs' performance on complex financial analysis tasks that mirror real-world investment work. The dataset aims to be substantially more challenging and practical than existing financial benchmarks, focusing on tasks that require precise calculations and professional judgment.
 
